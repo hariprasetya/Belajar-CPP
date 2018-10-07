@@ -6,5 +6,5 @@ int main(){
   int const lebar = 20;
   int luas = panjang*lebar;
 
-  cout << luas << endl;
+  cout <<"Luas="<<luas << endl;
 }
